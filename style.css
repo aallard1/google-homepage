@@ -1,0 +1,24 @@
+#google-logo {
+    padding-top: 10px;
+    height: 72px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+#search-form {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-color: black;
+    box-shadow: 0 1px 6px black;
+    margin: 0;
+    padding: 0;
+    display: block;
+    margin-top: -37px;
+    font-size: 16px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }

@@ -1,0 +1,1 @@
+This project is in the Web Development 101 course on the Odin Project website. I will be making a non functioning web page using HTML and CSS to demonstrate the skills I have learned so far.
