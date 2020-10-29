@@ -10,11 +10,12 @@ header {
 #nav-bar1 ul  #nav-bar2 ul {
     width: auto;
     height: 100%;
-    display: flex;
+    display: inline-block;
     align-items: center;
     margin: 6px 15px;
     list-style-type: none;
     padding: 0;
+    color: #000000;
 }
 .google-stuff {
     height: 100%;
@@ -50,9 +51,10 @@ footer {
 #nav-bar3 ul #nav-bar4 ul {
     width: auto;
     height: 100%;
-    display: flex;
+    display: inline-block;
     align-items: center;
     margin: 0px 15px;
     list-style-type: none;
     padding: 0;
+    color: #5f6368;
 }
